@@ -2,7 +2,6 @@
 个人信息 (AboutMe)
 ==================
 
-born in 1976.
 
 .. raw:: html
 
@@ -37,17 +36,4 @@ born in 1976.
     </html>
     
 
-.. graphviz::
 
-    digraph abc{
-        a;
-        b;
-        c;
-        d;
-
-        a -> b;
-        b -> d;
-        c -> d;
-    }
-
-我的经历
