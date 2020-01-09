@@ -51,7 +51,7 @@
     <h2>其他信息</h2>
     <p>兴趣爱好：唱歌；体育舞蹈</p>
     <p>人生格言：<em>Never A Failure,Always A Lesson</em></p>
-    <a href="https://github.com/fuzzymanZy" target='_blank'><img src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578547977085&di=596fd8538ad67165c63bac5e1775c92b&imgtype=0&src=http%3A%2F%2Fpic4.zhimg.com%2Fv2-29650a2de5543135da189ab250d79b8d_1200x500.jpg' width='31' height='21' alt='github:' align='middle'/>fuzzymanZy</a>  
+    <a href="https://github.com/fuzzymanZy" target='_blank'><img src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578547977085&di=596fd8538ad67165c63bac5e1775c92b&imgtype=0&src=http%3A%2 %2Fpic4.zhimg.com%2Fv2-29650a2de5543135da189ab250d79b8d_1200x500.jpg' width='31' height='21' alt='github:' align='middle'/>fuzzymanZy</a>  
    </body>
    </html>
     
