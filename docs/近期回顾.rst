@@ -1,5 +1,5 @@
 ==================
-     近期成果 
+     近期回顾 
 ==================
 
 
@@ -20,8 +20,8 @@
 信息资源管理
 ----------
 
-包括理论学习与实践操作，主要涉及对复杂网络的学习以及文献计量，涉及软件或工具
-- Python之networkx
+包括理论学习与实践操作。实践部分主要涉及对复杂网络的学习以及文献计量，使用不同的软件或工具
+- Python之networkx、matplotlib
 - Ricequant
 - SATI
 
@@ -35,12 +35,3 @@
 
 Keep Learning......
 
-
-.. raw:: html
-
-    <!DOCTYPE html>
-    <html>
-    <head>
-    <meta charset="utf-8">
-    <title>近期成果</title>
-    </head>
