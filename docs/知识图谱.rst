@@ -36,8 +36,8 @@
     <h1>百度UNIT</h1>
     <a href='https://ai.baidu.com/unit/v2#/servicesecondary/S25163/12306%E4%B9%8B%E7%88%B6/serviceskill' target='_blank'>UNIT智能对话定制与服务平台之对话机器人</a>
     <a href='https://ai.baidu.com/unit/home' target='_blank'> <img src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1579178962&di=89b19bf4bc446905ca8a5b4aea4fe29d&imgtype=jpg&er=1&src=http%3A%2F%2Fbdyingxiaocms.cdn.bcebos.com%2F2019-08-22%2F5d5e0e6957769.jpg' width='150' height='100' alt='UNIT:' align='right'/></a>  
-    <img src="C:\Users\32641\Desktop\html\我的机器人.jpg" width="600",height="150" alt='我的机器人'/>
-	<img src="C:\Users\32641\Desktop\html\12306.jpg" width="500",height="250" alt='12306'/>
+    <p><img src="C:\Users\32641\Desktop\html\我的机器人.jpg" width="600",height="150" alt='我的机器人'/></p>
+    <p><img src="C:\Users\32641\Desktop\html\12306.jpg" width="500",height="250" alt='12306'/></p>
     </div>
     </body>
     </html>
