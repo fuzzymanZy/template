@@ -19,20 +19,20 @@
     </style>
     </head>
     <body>
-	<div class="one">
-	<h1>知识图谱</h1>
-	<ul type='disc'>
-	<li><b>出现</b>：2012年，Google率先提出，用于增强其搜索引擎功能，将传统的keyword-base搜索模型升级到基于语义的搜索的知识库，从语义角度组织网络数据。</li>
-	<li><b>目的</b>：用计算机可理解的语言描述客观世界的事物及其关系。</li>
-	<li><b>本质</b>：基于知识表示的知识库——图数据结构表示的知识载体/语义网络</li>
-	<li><b>理解</b>：Things not Strings</li>
-	<li><b>结构</b>：知识框架→知识获取→知识融合→知识存储→知识推理→</li>
-	</ul>
-	</div>
-	<div class="one">
-	<h1>百度UNIT</h1>
-	<a href='https://ai.baidu.com/unit/v2#/servicesecondary/S25163/12306%E4%B9%8B%E7%88%B6/serviceskill' target='_blank'>UNIT智能对话定制与服务平台之对话机器人</a>
-	<a href='https://ai.baidu.com/unit/home' target='_blank'> <img src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1579178962&di=89b19bf4bc446905ca8a5b4aea4fe29d&imgtype=jpg&er=1&src=http%3A%2F%2Fbdyingxiaocms.cdn.bcebos.com%2F2019-08-22%2F5d5e0e6957769.jpg' width='150' height='100' alt='UNIT:' align='right'/></a>  
-	</div>
-	</body>
-	</html>
+    <div class="one">
+    <h1>知识图谱</h1>
+    <ul type='disc'>
+    <li><b>出现</b>：2012年，Google率先提出，用于增强其搜索引擎功能，将传统的keyword-base搜索模型升级到基于语义的搜索的知识库，从语义角度组织网络数据。</li>
+    <li><b>目的</b>：用计算机可理解的语言描述客观世界的事物及其关系。</li>
+    <li><b>本质</b>：基于知识表示的知识库——图数据结构表示的知识载体/语义网络</li>
+    <li><b>理解</b>：Things not Strings</li>
+    <li><b>结构</b>：知识框架→知识获取→知识融合→知识存储→知识推理→</li>
+    </ul>
+    </div>
+    <div class="one">
+    <h1>百度UNIT</h1>
+    <a href='https://ai.baidu.com/unit/v2#/servicesecondary/S25163/12306%E4%B9%8B%E7%88%B6/serviceskill' target='_blank'>UNIT智能对话定制与服务平台之对话机器人</a>
+    <a href='https://ai.baidu.com/unit/home' target='_blank'> <img src='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1579178962&di=89b19bf4bc446905ca8a5b4aea4fe29d&imgtype=jpg&er=1&src=http%3A%2F%2Fbdyingxiaocms.cdn.bcebos.com%2F2019-08-22%2F5d5e0e6957769.jpg' width='150' height='100' alt='UNIT:' align='right'/></a>  
+    </div>
+    </body>
+    </html>
