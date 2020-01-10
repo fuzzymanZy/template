@@ -1,1 +1,133 @@
+==================
+文献计量
+==================
 
+
+.. raw:: html
+    
+    <!DOCTYPE html>
+    <html>
+    <head>
+    <meta charset="utf-8">
+    </head>
+    <body>
+    <h1>基于Citespace的知识工作者研究综述</h1>
+    <br>
+    <div>
+    <h2>研究方法</h2>
+    <ul>
+    <li><h3>方法论</h3></li>
+    <img src="C:\Users\32641\Desktop\html\共被引.png"width="200",height="240" alt='共被引' align='right'/>
+    <ul type='circle'>
+    <li>共现分析</li>
+    <li>共被引分析</li>
+    </ul>
+    <li><h3>研究工具——Citespace<h3></li>
+    <img src="C:\Users\32641\Desktop\html\Citespace基本操作流程.PNG" width="344",height="436" alt='Citespace基本操作流程'/>
+    <p>Citespace软件是美国雷德赛尔大学信息科学与技术学院的陈超美博士与大连理工大学的WISE实验室联合开发的科学文献分析工具。</p>
+    <ul type='circle'>
+    <li><b>聚类图Cluster View</b>:聚类结构特征，关键节点的连接</li>
+    <li><b>时间线图Timeline View</b>：聚类之间的关系及历史跨度</li>
+    <li><b>时间区图Timezone View</b>：时间维度的演变趋势与影响关系</li>
+    </ul>
+    </ul>
+    </div>
+    <div>
+    <h2>数据来源</h2>
+    <ol>
+    <li>选择Web of Science数据库核心合集,进行关键词、年份、文献类型筛选</li>
+    <li>数据预处理：duplicates removal；同义词合并
+    </ol>
+    </div>
+    <h2>数据分析</h2>
+    <ul>
+    <li>年度分析</li>
+    <br>
+    <li>共现分析</li>
+    <ul type='circle'>
+    <li>关键词共现分析</li>
+    <ul type='square'>
+    <li>高频词分析</li>
+    <li>爆发性诊断</li>
+    <li>时序变化图</li>
+    <li>聚类分析</li>
+    <table border="1" cellpadding='10'>
+    <caption>关键词分析</caption>
+    <tr>
+    <th>频次</th>
+    <th>突现性</th>
+    <th>中心性</th>
+    <th>Sigma</th>
+    <th>关键词</th>
+	  <th>含义</th>
+	  <th>年份</th>
+    </tr>
+    <tr>
+    <td>586</td>
+    <td>23.15</td>
+    <td>0.11</td>
+    <td>10.42</td>
+	  <td>knowledge workers</td>
+	  <td>知识员工</td>
+  	<td>1997</td>
+    </tr>
+  	<tr>
+    <td>79</td>
+    <td>&nbsp;</td>
+    <td>0.25</td>
+    <td>1</td>
+  	<td>practical implications</td>
+  	<td>实际影响</td>
+	  <td>2007</td>
+    </tr>
+ 	  <tr>
+    <td>77</td>
+    <td>8.69</td>
+    <td>0.16</td>
+    <td>3.75</td>
+	  <td>knowledge management</td>
+	  <td>知识管理</td>
+	  <td>1999</td>
+    </tr>
+	  <tr>
+    <td>55</td>
+    <td>3.35</td>
+    <td>0.05</td>
+    <td>1.19</td>
+	  <td>knowledge work</td>
+	  <td>知识工作</td>
+  	<td>1999</td>
+    </tr>
+	  <tr>
+    <td>49</td>
+    <td>&nbsp;</td>
+    <td>0.26</td>
+    <td>1</td>
+  	<td>knowledge sharing</td>
+  	<td>知识共享</td>
+  	<td>2001</td>
+    </tr>
+    </table>
+  	</ul>
+  	<br>
+  	<li>领域共现分析</li>
+  	<img src="C:\Users\32641\Desktop\html\领域.PNG" width="300",height="200" alt='领域'/>
+  	<br>
+  	<li>机构共现分析</li>
+  	<img src="C:\Users\32641\Desktop\html\机构.PNG" width="300",height="200" alt='机构'/>
+  	</ul>
+  	<li>共被引分析</li>
+  	<br>
+  	<ul type='circle'>
+  	<li>文献共被引</li>
+  	<img src="C:\Users\32641\Desktop\html\文献.PNG" width="700",height="200" alt='文献'/>
+  	<br>
+  	<li>作者共被引</li>
+   	<br>
+  	<li>期刊共被引</li>
+  	<img src="C:\Users\32641\Desktop\html\期刊.PNG" width="311",height="150" alt='期刊'/>
+  	</ul>
+  	</ul>
+  	</div>
+  	</body>
+  	<html>
