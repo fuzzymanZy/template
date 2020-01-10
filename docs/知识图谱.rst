@@ -11,7 +11,7 @@
     <meta charset="utf-8">
     <style>
     .one{
-    background-color:rgb(60,153,194);
+    background-color:rgb(60,153,220);
     color:white;
     margin:20px;
     padding:20px;
