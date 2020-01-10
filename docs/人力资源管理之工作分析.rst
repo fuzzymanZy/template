@@ -10,23 +10,8 @@
     <head>
     <meta charset="utf-8">
     </head>
-	  <body>
-	  <h1>知识员工</h1>
-	  <table border="1" cellpadding='10' bgcolor='yellow'>
-	  <caption>知识工作者</caption>
-    <tr>
-    <th align='center'>姓名</th>
-    <th align='center'>性别</th>
-    <th colspan='2' align='center'>联系方式</th>
-    </tr>
-    <tr>
-    <td>小张</td>
-    <td>女</td>
-    <td>15868191570</td>
-    <td>&nbsp</td>
-    </tr>
-    </table>
-    <h2>知识生产者</h2>
+    <body>
+    <h2>知识工作者</h2>
     <p>——《卓有成效的管理者》 德鲁克</p>
     <ul>
     <li>定义：从事脑力工作的员工</li>
@@ -61,5 +46,5 @@
     <h2>工作分析方向</h2>
     <ol type='square'</ol>
     <li>自动化，日常化：信息系统</li>
-  	</body>
-  	</html>
+    </body>
+    </html>
