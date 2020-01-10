@@ -9,6 +9,11 @@
     <html>
     <head>
     <meta charset="utf-8">
+    <style type='text/css'>
+        body{color:rgb(77,77,77);}
+	h1,h2,h3{font-family:verdana,sans-serif;}
+	p{font-family:verdana,sans-serif;font-size:18px;}
+    </style>
     </head>
     <body background='https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1578546458775&di=3ee3773bb49d587f3482e263a4c2d2d1&imgtype=0&src=http%3A%2F%2Fwww.51pptmoban.com%2Fd%2Ffile%2F2018%2F03%2F27%2Faa248fd26a68709932796b714649dc7a.jpg'>
     <b>
